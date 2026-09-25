@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shirustihaa/leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/shirustihaa/leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
