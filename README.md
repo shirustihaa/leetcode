@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shirustihaa/leetcode/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shirustihaa/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/shirustihaa/leetcode/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shirustihaa/leetcode/tree/master/0207-course-schedule) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shirustihaa/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
