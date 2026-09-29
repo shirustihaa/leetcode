@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shirustihaa/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shirustihaa/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shirustihaa/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/shirustihaa/leetcode/tree/master/0207-course-schedule) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shirustihaa/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/shirustihaa/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/shirustihaa/leetcode/tree/master/0207-course-schedule) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shirustihaa/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -34,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/shirustihaa/leetcode/tree/master/0207-course-schedule) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/shirustihaa/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shirustihaa/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/shirustihaa/leetcode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
