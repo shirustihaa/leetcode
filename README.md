@@ -60,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/shirustihaa/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Array
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/shirustihaa/leetcode/tree/master/0063-unique-paths-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/shirustihaa/leetcode/tree/master/0063-unique-paths-ii) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/shirustihaa/leetcode/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
